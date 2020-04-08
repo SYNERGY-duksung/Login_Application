@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7f1531</color>
+    <color name="colorPrimaryDark">#7f1531</color>
+    <color name="colorPrimaryHome">#c45069</color>
+    <color name="colorAccent">#c45069</color>
+
+    <color name="colorMain">#74011f</color>
+    <color name="colorHighLight">#ff0049</color>
+    <color name="colorLoginBackground1">#F6FBFC</color>
+    <color name="colorLoginBackground2">#F4F9F9</color>
+    <color name="colorMainDark">#9b0b31</color>
+    <color name="colorUnSelectedDay">#e385a6</color>
+    <color name="colorSelectedTab">#eac5d1</color>
+    <color name="colorUnSelectedTab">#c63857</color>
+    <color name="colorProgress">#dc9eb1</color>
+
+    <!-- view colors -->
+    <color name="switch_button">#fd1437</color>
+    <color name="refresh_button">#8c2c45</color>
+    <color name="calc_button">#994358</color>
+    <color name="bar_color">#d81c58</color>
+    <color name="table_color">#F7FCFE</color>
+    <color name="timetable_cell">#FAFAFA</color>
+    <color name="cell_color">#ffeef5</color>
+    <color name="line_color">#903f2b</color>
+    <color name="text_light_blue">#ef005e</color>
+    <color name="text_normal_blue">#bc1c40</color>
+    <color name="text_dark_blue">@color/line_color</color>
+    <color name="text_list_color">#939598</color>
+    <color name="text_timetable_color">#dcaab0</color>
+    <color name="text_day_time">#DA6431</color>
+    <color name="text_night_time">#1C3893</color>
+
+    <!-- more button colors -->
+    <color name="more_01">#c55d70</color>
+    <color name="more_02">#c97682</color>
+    <color name="more_03">#cb8d91</color>
+    <color name="more_04">#c25d6f</color>
+    <color name="more_05">#c4767f</color>
+    <color name="more_06">#c98d90</color>
+    <color name="more_07">#bc5d6a</color>
+    <color name="more_08">#c2767e</color>
+    <color name="more_09">#c68d8d</color>
+    <color name="more_10">#b85d69</color>
+    <color name="more_11">#be767a</color>
+    <color name="more_12">#c48d8d</color>
+
+    <color name="more_01_press">#ABc55d70</color>
+    <color name="more_02_press">#ABc97682</color>
+    <color name="more_03_press">#ABcb8d91</color>
+    <color name="more_04_press">#ABc25d6f</color>
+    <color name="more_05_press">#ABc4767f</color>
+    <color name="more_06_press">#ABc98d90</color>
+    <color name="more_07_press">#ABbc5d6a</color>
+    <color name="more_08_press">#ABc2767e</color>
+    <color name="more_09_press">#ABc68d8d</color>
+    <color name="more_10_press">#ABb85d69</color>
+    <color name="more_11_press">#ABbe767a</color>
+    <color name="more_12_press">#ABc48d8d</color>
+
+    <!-- normal colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="text_selected">#db0940</color>
+</resources>
